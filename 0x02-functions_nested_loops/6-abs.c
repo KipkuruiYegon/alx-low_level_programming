@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _abs - this computes the abs val of an integer
- * @r : The No. to be computed
- * Return : Abs Value of No or Zero
+ * _abs - computes the absolute value of an integer
+ * @r : The Number to be computed
+ * Return : Absolute Value of umber or Zero
  *
  */
 int _abs(int r)
