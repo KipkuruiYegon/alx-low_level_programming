@@ -2,13 +2,13 @@
 
 /**
  *add - Adds the two values
- *n1 - the first int
- *n2 - the second int
+ *a - the first int
+ *b - the second int
  *Return: int value
  */
 
-int add(int n1, int n2)
+int add(int a, int b)
 
 {
-return (n1 + n2);
+return (a + b);
 }
