@@ -2,8 +2,8 @@
 
 /**
  *add - Adds the two values
- *a - the first int
- *b - the second int
+ *@a - the first int
+ *@b - the second int
  *Return: int value
  */
 
