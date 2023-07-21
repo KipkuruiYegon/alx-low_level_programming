@@ -15,7 +15,7 @@ int main(void)
 	{
 		if (b % a == 0)
 		{
-			if (b == 1)
+			if (b == a)
 			{
 				printf("%ld\n", a);
 				break;
