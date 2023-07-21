@@ -1,14 +1,16 @@
 #include <stdio.h>
 
 /**
-*main - finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+* main - finds and prints the largest prime factor
 *
-*Return : 0
+* Return : 0
 */
+
 int main(void)
 {
-	long int a,b,c;
-		b = 612852475143;
+	long int a, b, c;
+
+	b = 612852475143;
 	for (a = 1; a <= b; a++)
 	{
 		if (b % a == 0)
