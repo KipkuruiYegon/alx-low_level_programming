@@ -2,8 +2,8 @@
 
 /**
 * main - Entry point , prints the numbers from 1 to 100, followed by a new line
-* Return : 0 Always
 *
+* Return : 0 Always
 */
 
 int main(void)
