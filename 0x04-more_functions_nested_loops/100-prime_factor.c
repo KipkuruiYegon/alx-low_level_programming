@@ -1,10 +1,10 @@
 #include <stdio.h>
-
 /**
-* main - finds and prints the largest prime factor
-*
-* Return : 0
-*/
+ *
+ * main - prints largest prime
+ *
+ * Return : 0
+ */
 
 int main(void)
 {
