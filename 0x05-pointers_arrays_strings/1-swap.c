@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * iswap_int - will swap the two intergers
+ * swap_int - will swap the two intergers
  * @a: first int
  * @b: second int
  *
