@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * puts2 - prints every other character of a string
- * begin with first then new line
- * @str - input
- * 
- */
+* puts2 - prints every other character of a string
+* begin with first then new line
+* @str - input
+*
+*/
 void puts2(char *str)
 {
-	int longi =0;
+	int longi = 0;
 	int x = 0;
 	char *y = str;
 	int z;
