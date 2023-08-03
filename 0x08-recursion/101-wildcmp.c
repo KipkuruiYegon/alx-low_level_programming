@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * wildcmp - function checks for two possible strings with  wildcard '*' character.
+ * wildcmp - checks for two possible strings with  wildcard '*' character.
  * @s1: The first input string.
  * @s2: The second input string with possible '*' wildcard.
  * Return: 1 if identical, 0 else.
