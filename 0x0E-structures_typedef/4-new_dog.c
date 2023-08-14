@@ -6,7 +6,7 @@
  * @name: name of the dog
  * @age: age of the dog
  * @owner: owner of the dog
- * Return: a dog object, else 
+ * Return: a dog object, else
  */
 dog_t *new_dog(char *name, float age, char *owner)
 {
